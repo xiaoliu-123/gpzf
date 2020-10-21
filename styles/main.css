@@ -1,0 +1,23 @@
+/* 公共样式 */
+*{
+    margin: 0;;
+    padding:0;
+}
+body{
+    font-size: 14px;
+    min-width: 1140px;
+    font-family: "Microsoft YaHei","SimSun","Arial Narrow";
+    background: url(../images/bg.jpg) 0 32px repeat-x #f1f6fd;
+}
+a{
+    text-decoration:none;
+}
+section,nav,header,footer,article,address,aside{
+    display: block;
+}
+img{
+    border:none;
+}
+ul,li{
+    list-style:none;
+}
